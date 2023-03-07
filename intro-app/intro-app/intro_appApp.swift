@@ -10,8 +10,6 @@ import SwiftUI
 @main
 struct intro_appApp: App {
     var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
+       CustomScene()
     }
 }
